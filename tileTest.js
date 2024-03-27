@@ -4,7 +4,7 @@ window.onload = function() {
 
     // Load tileset image
     var tilesetImage = new Image();
-    tilesetImage.src = "tileset.png";
+    tilesetImage.src = "tilemap.png";
 
     // Define map data (grass tiles with index 0)
     var mapData = [
