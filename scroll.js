@@ -56,7 +56,7 @@ Camera.prototype.move = function (delta, dirx, diry) {
 
 Game.load = function () {
     return [
-        Loader.loadImage('tiles', 'tiles.png'),
+        Loader.loadImage('tiles', 'tilemap.png'),
     ];
 };
 
